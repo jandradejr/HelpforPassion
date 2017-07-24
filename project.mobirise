@@ -1,0 +1,541 @@
+{
+  "settings": {
+    "name": "NewSite-05-06_1432",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {}
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 22,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-size": "24px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.4em",
+              "color": "#510707"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#510707"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-k",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "1.4",
+            "fontName": {},
+            "fontColor": "#510707",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aaicon-128x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Help for Passion • Andrew Aaron, LICSW</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Why Andrew Aaron</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Get Help</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Request Appointment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Phone Conference</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Join a Workshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Client Portal&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Resources</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Subscribe</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "color": "#8e0b0b"
+            },
+            "P": {
+              "text-align": "left",
+              "color": "#000000",
+              "font-size": "46px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            "B": {
+              "color": "#a60a0a",
+              "font-size": "48px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "header4-c",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/couple-640-2000x1334.jpg",
+            "bgColor": "#fff8e0",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Falling in love is easy",
+          "text": "Staying that way is not",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help individually</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at our workshop</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_styles": {
+            "P": {
+              "color": "#8f99af"
+            }
+          },
+          "_anchor": "content4-4",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showTitles": true,
+            "showCaptions": true
+          },
+          "title1": "<a href=\"http://http://andy.sayitright.com/channels/couples-programs\">For Couples</a>",
+          "caption1": "Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam.",
+          "title2": "<a href=\"http://andy.sayitright.com/channels/for-singles\" class=\"text-black\">For Singles</a>",
+          "caption2": "Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam.",
+          "title3": "<a href=\"http://andy.sayitright.com/channels/sex-therapy\" class=\"text-black\">Sex Therapy</a>",
+          "caption3": "Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam..",
+          "title4": "<a href=\"http://andy.sayitright.com/channels/relationshiparticles\" class=\"text-black\">Originals</a>",
+          "caption4": "<a href=\"http://andy.sayitright.com/channels/couples-programshttp://\" class=\"text-black\">Andy Aaron has put years of experience and thought into many articles published here and in media around the region. As a radio show host on the Southcoast he has become a recognized authority on improving relationships.&nbsp;</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#8e0b0b",
+              "font-size": "36px"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "msg-box1-j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1389.jpg",
+            "bgColor": "#d8f1d5",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
+            "inverse": false,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">Start a Journey</a>",
+          "title": "<br>NEXT WORKSHOP: Relationship Renewal &nbsp;",
+          "text": "Saturday, &nbsp;October 7, 9:00 am &nbsp;@ Hampton Inn, Fairhaven, MA<br>A day long workshop to REVIVE YOUR LOVING CONNECGTION<br>&nbsp;"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            ".lead P": {
+              "text-align": "right"
+            },
+            ".lead H3": {
+              "color": "#a60a0a"
+            }
+          },
+          "_anchor": "msg-box5-d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/photo-5.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/dvtIQiSeu18",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Andrew Aaron, LICSW",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h3>Over 2 decades&nbsp;</h3><h3>of helping couples</h3>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "25px",
+              "color": "#830a0a"
+            }
+          },
+          "_anchor": "content5-l",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": false,
+            "showCaption": true
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>Where love rules, there is no will to power; where power predominates, there love is lacking. </p><p>The one is the shadow of the other.</p><p>- Carl Gustav Jung</p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "24px",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "content5-3",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-mar-31-9-33-31-am-copy-1400x1392.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "In all matters of Love, Intimacy and Passion&nbsp;",
+          "caption": "<p><b>Deepen Love and Make Relationships More Satisfying.</b></p><p><b>Living life with passion means possessing a healthy aliveness. &nbsp;</b></p><p><b>Why is it so difficult to keep a love relationship on track?</b></p><p><b>How can we keep the love and closeness alive? </b></p><p><b>Is it possible to maintain the passion in sex? &nbsp;</b><b style=\"line-height: 1.5;\"><i>YES</i>!</b></p>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "color": "#0275d8"
+            }
+          },
+          "_anchor": "content5-7",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/sexuality-2000x1146.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.7,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Sexual Healing",
+          "caption": "<p>Love is always pure and perfect while we are not. Love is like gold, which no matter how tarnished it appears, may always be returned to its pure state. Love always wants us to grow towards perfection...we will never be perfect, but our capacity to love or be loved may be. </p><p>More here</p>"
+        },
+        {
+          "items": [
+            {
+              "text": "<em>“Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam.”</em>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "Couples Clients"
+            },
+            {
+              "text": "<em>“Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "Telepone Counseling"
+            },
+            {
+              "text": "<em>“Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam..”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "Indvidual Client"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<em>“Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam.”</em>",
+              "authorName": "ABANOUB S.",
+              "authorBio": "Couples Clients"
+            },
+            {
+              "text": "<em>“Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "Telepone Counseling"
+            },
+            {
+              "text": "<em>“Vestibulum risus suspendisse vestibulum maecenas in tortor. Curabitur justo mi minim, molestie et mollis ante pretium velit, nulla quis sollicitudin fusce, quam amet nam..”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "Indvidual Client"
+            }
+          ],
+          "_anchor": "testimonials1-8",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "count": 3,
+            "showName": true,
+            "showBio": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "header": "What my clients say"
+        },
+        {
+          "_inherit": "msg-box5",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-g",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/andyheadshot-1400x1958.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Love first... and ask questions later.<div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Andrew Aaron, LICSW, graduated with a Masters degree in Social Work from Simmons College, Graduate School of Social Work in 1994. For the past 21 years he has helped hundreds of couples and individuals get beyond problems, feel better and love more fully.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SCHEDULE</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-i",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n50 North St<br>\nNew Bedord, &nbsp;MA 99999<br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+        }
+      ]
+    }
+  }
+}
