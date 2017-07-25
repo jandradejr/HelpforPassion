@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-05-06_1432",
+    "name": "Help for Passion",
     "currentPage": "index.html",
     "theme": {
       "name": "purity",
@@ -9,7 +9,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 22,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -249,7 +253,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/dvtIQiSeu18",
+              "src": "https://youtu.be/XezhrErRnJ0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
