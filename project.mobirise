@@ -92,7 +92,7 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/60s-couple1-2000x1333.png",
                 "overlay": false,
                 "contentAlign": "center",
@@ -104,7 +104,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/middle-aged-couple2-2000x2930.png",
                 "contentAlign": "left",
                 "showTitle": true,
@@ -126,7 +126,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
               }
             ],
-            "fullScreen": true,
+            "fullScreen": false,
             "bgColor": "#ffffff",
             "showBullets": true
           },
@@ -141,7 +141,7 @@
               "font-size": "36px",
               "font-family": "'Playfair Display', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "color": "#f1c050"
+              "color": "#710808"
             }
           }
         },
