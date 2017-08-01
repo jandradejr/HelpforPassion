@@ -24,12 +24,18 @@
   color: #510707;
 }
 #slider-n H2 {
-  color: #ffffff;
+  color: #710808;
   font-size: 72px;
+  text-align: left;
 }
 #slider-n P {
   font-size: 36px;
   font-family: 'Playfair Display', sans-serif;
+  color: #0275d8;
+  text-align: left;
+}
+#slider-n DIV {
+  text-align: left;
   color: #710808;
 }
 #content4-4 P {

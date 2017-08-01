@@ -86,16 +86,34 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "color": "#710808",
+              "font-size": "72px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "36px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "color": "#0275d8",
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#710808"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/60s-couple1-2000x1333.png",
-                "overlay": false,
-                "contentAlign": "center",
+                "overlay": true,
+                "contentAlign": "left",
                 "showTitle": true,
                 "title": "Falling in&nbsp;<div>love is easy</div>",
                 "showText": true,
@@ -104,19 +122,9 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/middle-aged-couple2-2000x2930.png",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Falling in love is easy",
-                "showText": true,
-                "text": "Staying in love is not.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">For Mac</a>"
-              },
-              {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/younger-couple2-2000x1231.png",
+                "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
                 "title": "Falling in <br>love is easy",
@@ -124,26 +132,26 @@
                 "text": "Staying in love is not",
                 "showButtons": true,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/image2-2000x1000.jpg",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Falling in&nbsp;<div>love is easy</div>",
+                "showText": true,
+                "text": "Staying in love is not",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
               }
             ],
-            "fullScreen": false,
+            "fullScreen": true,
             "bgColor": "#ffffff",
             "showBullets": true
           },
           "_anchor": "slider-n",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "color": "#ffffff",
-              "font-size": "72px"
-            },
-            "P": {
-              "font-size": "36px",
-              "font-family": "'Playfair Display', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
-              "color": "#710808"
-            }
-          }
+          "articleLayout": false
         },
         {
           "alias": "purity/components",
@@ -350,8 +358,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.8",
+            "overlay": true,
+            "overlayOpacity": "0.5",
             "overlayColor": "#fff",
             "showTitle": true,
             "showCaption": true
@@ -397,17 +405,17 @@
             {
               "text": "<em>Andy,</em><div><em>I just wanted to thank you for helping J and I with our relationship. You have given us some wonderful, insightful, and very useful tools to help us each day.</em></div><div><em><br></em></div><div><em>We will continue to do our work that you have given us.</em></div><div><em><br></em></div><div><em>Thank you again for all your wisdom and suggestions. We were helped very much by seeing you and would certainly be happy to refer you to others having difficulty.</em></div>",
               "authorName": "",
-              "authorBio": "Couples Clients"
+              "authorBio": "Couples Counseling"
             },
             {
               "text": "<p><i>Andy, </i></p><p><i>My wife and I both feel that being counseled by you was an important factor in saving our marriage. We found our way back to recapture the love we thought was all but lost. Thank you for supporting us in such a caring and impartial way.</i></p>",
               "authorName": "SUFFIAN A.",
-              "authorBio": "Telephone Counseling"
+              "authorBio": "Couples Counseling"
             },
             {
               "text": "<i>Andrew Aaron has helped me to help myself acquire a much more compassionate and fulfilling life in a safe environment. He has provided me with the tools to explore and understand parts of myself I have not known. With his insights I have found paths to self-awareness and self-knowledge and ways to explore my life with sensitivity and forgiveness. His empathy and intelligence have had a profound impact on my life.</i>",
               "authorName": "JHOLLMAN C.",
-              "authorBio": "Indvidual Client"
+              "authorBio": "Indvidual Counseling"
             }
           ],
           "alias": "purity/components",
@@ -415,6 +423,11 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-title DIV": {
+              "font-size": "12px"
+            }
+          },
           "testimonial": [
             {
               "text": "<em>Andy,</em><div><em>I just wanted to thank you for helping J and I with our relationship. You have given us some wonderful, insightful, and very useful tools to help us each day.</em></div><div><em><br></em></div><div><em>We will continue to do our work that you have given us.</em></div><div><em><br></em></div><div><em>Thank you again for all your wisdom and suggestions. We were helped very much by seeing you and would certainly be happy to refer you to others having difficulty.</em></div>",
@@ -449,12 +462,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "header": "What Some People Say<div><br></div><div>The following testimonials from former clients are not shared as a guarantee of outcome.</div><div><br></div><div>Your results can and will vary. Some clients do not acheive their goals.</div><div><br></div><div><br></div>",
-          "_styles": {
-            ".mbr-section-title DIV": {
-              "font-size": "12px"
-            }
-          }
+          "header": "What Some People Say<div><br></div><div>The following testimonials from former clients are not shared as a guarantee of outcome.</div><div><br></div><div>Your results can and will vary. Some clients do not acheive their goals.</div><div><br></div><div><br></div>"
         },
         {
           "_inherit": "msg-box5",
@@ -463,28 +471,27 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-g",
           "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -516,7 +523,8 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "msg-box4-g"
         },
         {
           "alias": "purity/components",
@@ -538,7 +546,7 @@
             "overlayColor": "#222",
             "showTitle": true
           },
-          "title": "Contact Form",
+          "title": "Contact me",
           "form": {
             "action": "joe@sayitright.com",
             "alerts": {
@@ -566,7 +574,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact &nbsp;Me</a>"
         },
         {
           "alias": "purity/components",
