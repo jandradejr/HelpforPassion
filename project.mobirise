@@ -122,7 +122,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/younger-couple2-2000x1231.png",
                 "overlay": true,
                 "contentAlign": "left",
@@ -134,9 +134,9 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help in the office</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Get help at a workshop</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/image2-2000x1000.jpg",
-                "overlay": false,
+                "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
                 "title": "Falling in&nbsp;<div>love is easy</div>",
