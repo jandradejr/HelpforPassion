@@ -375,7 +375,8 @@
           "_name": "content5",
           "_styles": {
             "P": {
-              "color": "#0275d8"
+              "color": "#0275d8",
+              "font-size": "24px"
             }
           },
           "_anchor": "content5-7",
@@ -398,7 +399,7 @@
             "showCaption": true
           },
           "title": "Sexual Healing",
-          "caption": "<p>Love is always pure and perfect while we are not. Love is like gold, which no matter how tarnished it appears, may always be returned to its pure state. Love always wants us to grow towards perfection...we will never be perfect, but our capacity to love or be loved may be. </p><p><br></p>"
+          "caption": "<p>From the tip of the toes to the top of our heads we are meant to be loved. Our growth and well-being comes from our bodies being loved, too.</p>"
         },
         {
           "items": [
